@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Davi Chang and I am a student at SHHS
+My name is Davi Chang im from Brazil and I am a student at Sacred Heart High School, Ottawa, Canada.
 - 🌱 I’m currently learnining
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -31,4 +31,4 @@ My name is Davi Chang and I am a student at SHHS
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
 - I have tried coding in ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) before but found it too difficult for myself at the time
 
-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) is a programming language which was created by Brazillians https://discord.com/assets/10232d3063eaaa11ff88.svg
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) is a programming language which was created by Brazillians 
