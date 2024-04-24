@@ -27,7 +27,9 @@ My name is Davi Chang and I am a student at SHHS
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ⚡ Fun facts
-- My first Real Coding Program was Godot. 
+- My first Real Coding Program was Godot
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-- I have tried coding in Unity before but found it too difficult for myself at the time. 
+- I have tried coding in Unity before but found it too difficult for myself at the time
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+- Lua is a programming language which was created by Brazillians 🇧🇷
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
