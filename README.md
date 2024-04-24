@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Davi Chang and I am a student at SHHS
 - 🌱 I’m currently learnining
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
