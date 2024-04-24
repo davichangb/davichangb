@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Davi Chang im from Brazil and I am a student at Sacred Heart High School, Ottawa, Canada.
-- 🌱 I’m currently learnining
+- 🌱 I’m currently learning
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
