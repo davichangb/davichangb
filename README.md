@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m currently learnining
+- 🌱 I’m currently learnining
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
